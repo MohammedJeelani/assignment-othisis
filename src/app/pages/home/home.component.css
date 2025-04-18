@@ -172,8 +172,8 @@
 
 .user-actions .actions-wrapper {
     display: flex;
-    align-items: center; /* Aligns the button and icons vertically */
-    gap: 10px; /* Adds spacing between the button and icons */
+    align-items: center;
+    gap: 10px; 
 }
 
 .user-actions .resume-btn {
